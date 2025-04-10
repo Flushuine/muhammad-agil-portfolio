@@ -3,7 +3,7 @@ export const siteConfig = {
   authorName: "Muhammad Agil",
   username: "flushuine",
   description:
-    "Muhammad Agil is a Full Stack Developer, who loves to build web applications and is passionate about learning new technologies.",
+    "Backend developer with a passion for building scalable APIs and real-world systems using Go, Node.js, and Laravel. Focused on clean code, integration, and reliability.",
   links: {
     github: "https://github.com/Flushuine",
   },
