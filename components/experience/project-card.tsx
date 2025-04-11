@@ -73,7 +73,7 @@ export default function ProjectCard({ project }: ProjectCardProps) {
 
         <Link href={`${project.websiteLink}`} target="_blank">
           <Button variant={"default"} className="mt-2">
-            View more
+            Visit website
             <Icons.chevronRight className="w-4 ml-1" />
           </Button>
         </Link>
